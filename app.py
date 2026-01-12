@@ -163,10 +163,7 @@ if uploaded_file is not None:
 # =========================================================
 # FOOTER
 # =========================================================
-st.markdown("---")
-st.caption(
-    "⚙️ Built with TensorFlow & Streamlit | 🚀 Deployed on Streamlit Community Cloud"
-)
+
 st.markdown(
     """
     <hr>
