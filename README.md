@@ -9,7 +9,7 @@ This project demonstrates the **complete ML lifecycle** — from data ingestion 
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**
-
+https://cats-vs-dogs-app-poojana-ometh.streamlit.app/
 
 ---
 
